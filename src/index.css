@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.logo-img {
+    width: 100px;
+    height: 20px;
+    margin-left: 25px;
+}
+
+.back-logo {
+    background-image: url('../alg-logo.svg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;   
+}
